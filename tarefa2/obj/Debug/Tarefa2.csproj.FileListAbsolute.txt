@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\bin\Debug\Tarefa2.exe.config
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\bin\Debug\Tarefa2.exe
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\bin\Debug\Tarefa2.pdb
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\obj\Debug\Tarefa2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\obj\Debug\Tarefa2.frmPrincipal.resources
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\obj\Debug\Tarefa2.Properties.Resources.resources
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\obj\Debug\Tarefa2.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\obj\Debug\Tarefa2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\obj\Debug\Tarefa2.exe
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\obj\Debug\Tarefa2.pdb
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\obj\Debug\Tarefa2.frmCliente.resources
+C:\Users\Usuario\Documents\FATEC\2º SEMESTRE\Eletiva - Programação para Banco de Dados\Tarefa2\obj\Debug\Tarefa2.frmProduto.resources
